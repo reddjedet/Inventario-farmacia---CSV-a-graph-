@@ -1,5 +1,6 @@
 # Inventario-farmacia---CSV-a-graph-
-Toma los datos de un archivo CSV y los usa para hacer 2 gráficos (ventas totales por producto y por mes)
+Toma los datos de un archivo CSV y los usa para hacer 2 gráficos (ventas totales por producto y por mes.
+>vibecode
 
 
 <img width="400" alt="ejemplo" src="https://github.com/user-attachments/assets/da468b0c-13cd-49bd-820e-005dd0bf7080" />
